@@ -1,0 +1,17 @@
+C:\Users\alves\source\repos\Plosyx\Collab Server\bin\Debug\net7.0\Collab Server.exe
+C:\Users\alves\source\repos\Plosyx\Collab Server\bin\Debug\net7.0\Collab Server.deps.json
+C:\Users\alves\source\repos\Plosyx\Collab Server\bin\Debug\net7.0\Collab Server.runtimeconfig.json
+C:\Users\alves\source\repos\Plosyx\Collab Server\bin\Debug\net7.0\Collab Server.dll
+C:\Users\alves\source\repos\Plosyx\Collab Server\bin\Debug\net7.0\Collab Server.pdb
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.csproj.AssemblyReference.cache
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.AssemblyInfoInputs.cache
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.AssemblyInfo.cs
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.csproj.CoreCompileInputs.cache
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.dll
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\refint\Collab Server.dll
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.pdb
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.genruntimeconfig.cache
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\ref\Collab Server.dll
+C:\Users\alves\source\repos\Plosyx\Collab Server\bin\Debug\net7.0\Colorful.Console.dll
+C:\Users\alves\source\repos\Plosyx\Collab Server\obj\Debug\net7.0\Collab Server.csproj.CopyComplete
